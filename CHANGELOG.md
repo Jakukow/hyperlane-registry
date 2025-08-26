@@ -1,5 +1,16 @@
 # @hyperlane-xyz/registry
 
+## 23.1.0
+
+### Minor Changes
+
+- d238ff7: Add stokenet metadata
+- 46ed9a9: Deploy to celosepolia, incentivtestnet.
+
+### Patch Changes
+
+- f32a750: Rename radixstokenet -> radixtestnet
+
 ## 23.0.0
 
 ### Major Changes
